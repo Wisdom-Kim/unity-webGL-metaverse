@@ -1,34 +1,10 @@
-# webglserver
-Basic NodeJS Server in Java Script for Unity WebGL Aplication
+## 프로젝트 설명
 
-WebGL Meta Multiplayer Kit
-https://assetstore.unity.com/packages/tools/network/webgl-multiplayer-kit-145882
-
-this Server is powerful WebGL mmo template created special for multiplayer online games or metaverse in html5. 
- 
-* Play now WebGL Game Demo: 
- https://riometaverse.herokuapp.com/
-
-* Check out our online documentation for more information:
- https://drive.google.com/file/d/15ebs8A7bwEFCVaWgJkosX1krVXM-GUNr/view
- 
- 
-## To Run
+![image](https://github.com/user-attachments/assets/7d36c949-2c0d-495a-a51c-98d9e5e2b2e3)
 
 
-```
-# clone the project
-git clone https://github.com/rio3dstudios/metaverse.git
+Unity를 WebGL로 빌드할 시, 멀티플레이어 기능을 구현하기 위한 Node.js서버입니다.
 
-
-# open the project directory in windows cmd
-cd basicsampleserver
-
-# install dependencies
-npm install
-
-
-# start the application
-npm start
-
-```
+유니티 프로젝트 내 NetworkManager.cs 및 타 스크립트가 필요합니다.
+### 활용 프로젝트 링크
+https://metaverse-chung-anguniv.koyeb.app/
